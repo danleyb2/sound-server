@@ -16,7 +16,9 @@ coming soon
 # Destination
 
 # linux
+Setup PulseAudio Server
 
+can easyly be run on a Pi
 
 # windows
 coming soon
